@@ -14,7 +14,7 @@ Install the packages :
 flutter pub get --no-example
 ```
 
-Run the Apps : 
+Run the Apps : <br />
 You can run it using VSCode with specified device (using flutter extensions), or you can use this command : 
 ```bash
 flutter run
